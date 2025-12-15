@@ -1,4 +1,4 @@
-This is the first GitHub test code uploaded for learning Purposes
+This is the first GitHub test code uploaded for learning Purposes. This was an inspiration from a hackathon I did, where I created an inventory prediction It's in the lines something similar to that.
 # 📊 Data Analytics Dashboard
 
 A lightweight Python tool for real-time sensor data analysis and anomaly detection. Built for robotics telemetry, IoT monitoring, and embedded systems.
